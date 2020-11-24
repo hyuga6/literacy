@@ -1,3 +1,9 @@
-foo{font-size:20pt;}
-#bar1{color: red}
-#bar2{text-decoration: line-through;}
+.ull{
+    font-size:20pt;
+}
+.u12{
+    color: red;
+}
+.u13{
+    text-decoration: line-through;
+}
